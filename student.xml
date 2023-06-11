@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+	<name>Mike</name>
+	<sex>Male</sex>
+	<age>37</age>
+	<city>Kyiv</city>
+	<manual>true</manual>
+	<auto>false</auto>
+	<hobbies>biking</hobbies>
+	<hobbies>donating</hobbies>
+	<skills>
+		<name>Docker</name>
+		<level>rookie</level>
+	</skills>
+	<skills>
+		<name>Java</name>
+		<level>novice</level>
+	</skills>
+	<skills>
+		<name>Selenium</name>
+		<level>novice</level>
+	</skills>
+	<skills>
+		<name>Page Objects</name>
+		<level>novice</level>
+	</skills>
+	<skills>
+		<name>Jenkins</name>
+		<level />
+	</skills>
+</student>

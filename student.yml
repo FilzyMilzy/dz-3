@@ -1,0 +1,21 @@
+student:
+  name: Mike
+  sex: Male
+  age: 37
+  city: Kyiv
+  manual: true
+  auto: false
+  hobbies:
+  - biking
+  - donating
+  skills:
+  - name: Docker
+    level: rookie
+  - name: Java
+    level: novice
+  - name: Selenium
+    level: novice
+  - name: Page Objects
+    level: novice
+  - name: Jenkins
+    level:
